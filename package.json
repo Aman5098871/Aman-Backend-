@@ -12,5 +12,8 @@
     "backend"
   ],
   "author": "Aman Raza",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^3.3.3"
+  }
 }
